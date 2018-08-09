@@ -1,24 +1,24 @@
-# README
+<h1>Movie searcher</h1> Le lien heroku :
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+<h2>Version de Ruby :</h2>
 
-* Ruby version
+Ruby version : 2.5.1
 
-* System dependencies
+Rails version : 5.2.0
 
-* Configuration
+<h2>Utilisation en local</h2>
 
-* Database creation
 
-* Database initialization
+> <p>git clone https://github.com/jjeleven11/moviesearcher.git
 
-* How to run the test suite
+> cd moviesearcher
 
-* Services (job queues, cache servers, search engines, etc.)
+> bundle install 
 
-* Deployment instructions
+> rails db:create
 
-* ...
+
+> rails server  
+
+Go sur http://localhost:3000/
