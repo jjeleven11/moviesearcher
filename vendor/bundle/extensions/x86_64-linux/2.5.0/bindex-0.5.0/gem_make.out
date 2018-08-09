@@ -1,0 +1,15 @@
+current directory: /home/jeremie/Informatique/ruby/THP/jeudis6/Rails_Movie_Searcher-master/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/bin/ruby2.5 -r ./siteconf20180809-30033-hchw5k.rb extconf.rb
+creating Makefile
+
+current directory: /home/jeremie/Informatique/ruby/THP/jeudis6/Rails_Movie_Searcher-master/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/jeremie/Informatique/ruby/THP/jeudis6/Rails_Movie_Searcher-master/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/jeremie/Informatique/ruby/THP/jeudis6/Rails_Movie_Searcher-master/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20180809-30033-1510nw1/bindex
